@@ -18,6 +18,7 @@ Cette oeuvre A été realiser en 2022. L'instalation est contemplative. Une vide
 
 La piece étais diffuser sur une télevision avec 3 autre pieces d'Art accrocher qui se fesais diffuser en meme temps.
 
+
 ![croqui 01](https://user-images.githubusercontent.com/112108722/220755625-9366fedc-d7b7-4b83-9d98-da467c14d53a.png)
 ![croqui 02](https://user-images.githubusercontent.com/112108722/220755821-06390a1a-1f95-4d0e-8166-732f708c3305.png)
 ![croqui 03](https://user-images.githubusercontent.com/112108722/220755826-752bfab2-2375-46ea-b431-24bbbc3ccd29.png)
