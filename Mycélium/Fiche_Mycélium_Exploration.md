@@ -30,8 +30,8 @@ Ce projet est en deuxième place car il était très original par rapport aux au
 <h3>Réalisé par: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson</h3>
 
 
-<img src="Photo/lumasol_debut_projet.png">
-<img src="Photo/lumasol_debut_projet2.png">
+<img src="Photo/lumasol_debut_lumiere (1).png">
+<img src="Photo/lumasol_debut_moteur (1).png">
 
 <h1><a href="https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html">4 - Nexum</a></h1>
 <h3>Réalisé par: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson</h3>
