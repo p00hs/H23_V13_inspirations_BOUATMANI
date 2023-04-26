@@ -19,5 +19,16 @@ J'ai décidé de mettre ce projet en première place en raison de l'expérience 
 <img src="Photo/echomarine_debut_projet.png">
 
 
+
 <h1><a href="https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html">3 - LumaSol</a></h1>
 <h3>Réalisé par: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson</h3>
+
+
+<img src="Photo/lumasol_debut_projet.png">
+<img src="Photo/lumasol_debut_projet2.png">
+
+<h1><a href="https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html">4 - Nexum</a></h1>
+<h3>Réalisé par: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson</h3>
+
+<img src="Photo/Nexum_debut_projet2.png">
+<img src="Photo/Nexum_debut_projet.png">
