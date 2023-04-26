@@ -18,6 +18,10 @@ J'ai décidé de mettre ce projet en première place en raison de l'expérience 
 <img src="Photo/echomarine_debut_projet2.png">
 <img src="Photo/echomarine_debut_projet.png">
 
+Pour ce projet, les étudiants ont décidé de créer une installation intérieure qui nous transportera dans un monde sous-marin. Ils ont créé un site web qui présente six sortes d'animaux différents. En cliquant dessus, une animation se lancera et l'animal spécifique nagera dans la chambre. Il n'y a pour l'instant que deux animaux animés, dont la baleine et la tortue. Lorsque l'animation est activée, nous pouvons également entendre le son de l'animal correspondant. L'équipe nous a montré leur plan de remplacer l'ordinateur par une tablette qui sera placée au milieu de la salle.
+
+<img src="Photo/echomarine_shema.png">
+
 
 
 <h1><a href="https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html">3 - LumaSol</a></h1>
