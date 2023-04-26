@@ -8,4 +8,7 @@
 <h3>Réalisé par:Meryem Berbiche, Loic Delorme,Jean-Christophe, Gabriel LeblancElwin Durand et Dominic Roberts</h3>
 <img src="Photo/edria_demo.png">
 <img src="Photo/edria_ordinateur.png">
-Nous sommes allés rendre visite aux élèves de troisième année, qui nous ont présenté le prototype de leur projet. Il n'y avait qu'une demi-tour installée dans le studio, mais les capteurs et les haut-parleurs étaient installés et fonctionnaient parfaitement. Il y avait trois types de capteurs à activer. Lorsqu'un des capteurs était déclenché, il jouait une musique unique avec un jeu de lumières spécifique. Si les trois capteurs étaient activés, les trois types de musique et de jeux de lumière se déclenchaient simultanément, créant une expérience unique.
+Nous sommes allés rendre visite aux élèves de troisième année, qui nous ont présenté le prototype de leur projet. Il n'y avait qu'une demi-tour installée dans le studio, mais les capteurs et les haut-parleurs étaient installés et fonctionnaient parfaitement. Il y avait trois types de capteurs à activer. Lorsqu'un des capteurs était déclenché, il jouait une musique unique avec un jeu de lumières spécifique. Si les trois capteurs étaient activés avec 3 personnes, les trois types de musique et de jeux de lumière se déclenchaient simultanément, créant une expérience unique. 
+<img src="Photo/edria_shema.png">
+
+Voici le schéma de l'installation que l'équipe on crée : <a href="https://github.com/F-C-A/EDRIA/blob/main/docs/medias/schema_electrique.png">SCHÉMA</a>
