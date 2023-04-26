@@ -22,7 +22,8 @@ Pour ce projet, les étudiants ont décidé de créer une installation intérieu
 
 <img src="Photo/echomarine_shema.png">
 
-
+Voici le schéma de l'installation que l'équipe on crée : <a href="https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction#plantation">SCHÉMA</a>. 
+Ce projet est en deuxième place car 
 
 <h1><a href="https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html">3 - LumaSol</a></h1>
 <h3>Réalisé par: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson</h3>
