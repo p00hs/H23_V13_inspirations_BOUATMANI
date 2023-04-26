@@ -22,7 +22,8 @@ Pour ce projet, les étudiants ont décidé de créer une installation intérieu
 
 <img src="Photo/echomarine_shema.png">
 
-Voici le schéma de l'installation que l'équipe on crée : <a href="https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction#plantation">SCHÉMA</a>. 
+Voici le schéma de l'installation que l'équipe on crée : <a href="https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction#plantation">SCHÉMA</a>.
+
 Ce projet est en deuxième place car il était très unique comparé aux autres projets. Toutes les autres équipes ont utilisé des ampoules qui réagissent avec des capteurs de mouvement, mais le projet Echomarine a utilisé une tablette interactive qui projette des animaux sous-marins.. Non seulement ce projet est très immersif et nous transporte dans un monde sous-marin, il est également informatif et décrit chaque espèce. J'adore la simplicité du projet qui nous ramène à la mer.
 
 <h1><a href="https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html">3 - LumaSol</a></h1>
