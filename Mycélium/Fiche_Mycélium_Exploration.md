@@ -34,7 +34,7 @@ Ce projet est en deuxième place car il était très original par rapport aux au
 
 Lorsque nous avons visiter ce projet l'équipe avais installer des lumiére sur une échelle afin de simuler un arbre et ils ont installer le moteur sur un vélo stationnaire emprunter du gym. Le moteur s'active avec le velo. Lorsque quelqu'un pedale cela va déclancher le moteur qui va ensuite démontrer le spectacle de lumiére. L'équipe nous a expliquer que les lumieres vont representer une des quatre saison. Lorsque quelqu'un pedale pendant longtemps il va pouvoir aller a travers les 4 saisons. Le moteur n'étais pas attacher au velo, mais cétais a cause que ce n'étais pas le velo finale. 
 
-<img src="Photo/lumasol_shema.png.png">
+<img src="Photo/lumasol_shema.png">
 
 Voici le schéma de l'installation que l'équipe on crée : <a href="https://user-images.githubusercontent.com/70410591/215125260-d78220d7-4583-489d-9c77-34b1653faafd.png
 ">SCHÉMA</a>.
