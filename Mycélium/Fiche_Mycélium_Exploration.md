@@ -45,5 +45,5 @@ J'ai décidé de placer ce projet en troisième place à cause de l'interactivit
 <h1><a href="https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html">4 - Nexum</a></h1>
 <h3>Réalisé par: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson</h3>
 
-<img src="Photo/Nexum_debut_projet2.png">
-<img src="Photo/Nexum_debut_projet.png">
+<img src="Photo/nexum_demo_lumiere.png">
+<img src="Photo/nexum_ordinateur.png">
