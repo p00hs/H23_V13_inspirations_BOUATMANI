@@ -36,6 +36,9 @@ Lorsque nous avons visiter ce projet l'équipe avais installer des lumiére sur 
 
 <img src="Photo/lumasol_shema.png.png">
 
+Voici le schéma de l'installation que l'équipe on crée : <a href="https://user-images.githubusercontent.com/70410591/215125260-d78220d7-4583-489d-9c77-34b1653faafd.png
+">SCHÉMA</a>.
+
 <h1><a href="https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html">4 - Nexum</a></h1>
 <h3>Réalisé par: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson</h3>
 
