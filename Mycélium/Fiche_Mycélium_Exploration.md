@@ -29,9 +29,12 @@ Ce projet est en deuxième place car il était très original par rapport aux au
 <h1><a href="https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html">3 - LumaSol</a></h1>
 <h3>Réalisé par: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson</h3>
 
-
 <img src="Photo/lumasol_debut_lumiere (1).png">
 <img src="Photo/lumasol_debut_moteur (1).png">
+
+Lorsque nous avons visiter ce projet l'équipe avais installer des lumiére sur une échelle afin de simuler un arbre et ils ont installer le moteur sur un vélo stationnaire emprunter du gym. Le moteur s'active avec le velo. Lorsque quelqu'un pedale cela va déclancher le moteur qui va ensuite démontrer le spectacle de lumiére. L'équipe nous a expliquer que les lumieres vont representer une des quatre saison. Lorsque quelqu'un pedale pendant longtemps il va pouvoir aller a travers les 4 saisons. Le moteur n'étais pas attacher au velo, mais cétais a cause que ce n'étais pas le velo finale. 
+
+<img src="Photo/lumasol_shema.png.png">
 
 <h1><a href="https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html">4 - Nexum</a></h1>
 <h3>Réalisé par: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson</h3>
