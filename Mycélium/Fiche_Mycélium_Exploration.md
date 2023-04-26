@@ -24,7 +24,7 @@ Pour ce projet, les étudiants ont décidé de créer une installation intérieu
 
 Voici le schéma de l'installation que l'équipe on crée : <a href="https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction#plantation">SCHÉMA</a>.
 
-Ce projet est en deuxième place car il était très unique comparé aux autres projets. Toutes les autres équipes ont utilisé des ampoules qui réagissent avec des capteurs de mouvement, mais le projet Echomarine a utilisé une tablette interactive qui projette des animaux sous-marins.. Non seulement ce projet est très immersif et nous transporte dans un monde sous-marin, il est également informatif et décrit chaque espèce. J'adore la simplicité du projet qui nous ramène à la mer.
+Ce projet est en deuxième place car il était très original par rapport aux autres projets. Toutes les autres équipes ont utilisé des ampoules qui réagissent à des capteurs de mouvement, mais le projet Echomarine a utilisé une tablette interactive pour projeter des animaux sous-marins. Non seulement ce projet est très immersif et nous transporte dans un monde sous-marin, mais il est également instructif car il décrit chaque espèce projetée et lorsque l'un des animaux est en mouvement, nous entendons les sons qu'il émet. J'apprécie la simplicité du projet car elle démontre qu'une idée simple peut se transformer en une expérience incroyable.
 
 <h1><a href="https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html">3 - LumaSol</a></h1>
 <h3>Réalisé par: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson</h3>
