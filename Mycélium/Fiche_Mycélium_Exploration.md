@@ -47,3 +47,9 @@ J'ai décidé de placer ce projet en troisième place à cause de l'interactivit
 
 <img src="Photo/nexum_demo_lumiere.png">
 <img src="Photo/nexum_ordinateur.png">
+
+En visitant la derniére équipe nous avons pur observer leur prototype de lumiére accrocher sur des chaises. C'est chair simulais l'environoment ou il allait étre accrocher. L'équipe nous a expliquer que l'installation s'activait grace a des capteur de mouvement. Dans la démo nous avons passer devant le capteur qui enclanchait les lumiéres qui allais de gauche a droite accompagner par des haut-parleur qui jouait des sons accompagnateur. L'équipe nous a aussi démontrer un code QR qui nous emmenait a un site web qui jouait une animation d'art. Malheureusement le code fonctionnait seulement sur les androids. 
+
+<img src="Photo/nexum_shema.png">
+
+Voici le schéma de l'installation que l'équipe on crée : <a href="https://tim-montmorency.com/2023/projets/Nexum/docs/journaux/medias/prise_1.png">SCHÉMA</a>.
