@@ -11,7 +11,20 @@ L'oeuvre a été présenter au college Montmorency sous le projets final de fini
 <img src="Photo/echomarine_moi_devant.png">
 <img src="Photo/echomarine_moi_interieur.png">
 
-<h3>Créateur de échomarine</h3>
+<h3>Créateur d'échomarine</h3>
 L'oeuvre a été réaliser par les finissants du programme TIM. Il ce nomme : Maria Laura Coronel, Florence Lapierre, Tracy Gua et Natacha Abdallah
 <img src="Photo/echomarine_equipe.png">
+Échomarine a été crée en 2023 durant la session d'hiver et a été realiser en 7 semaine. L'équipe a réaliser un projet époustouflante. Échomarine est un projet immersive qui est controler par un dispositif au milieux de la salle. Ce dispositif démontre la beauté sous-marin avec 6 different animaux. Lorsque nous cliquant sur un des 6 icones de l'interface au milieu de la sale, une animation se lancera et l'animal spécifique nagera dans la chambre avec des sons differents les une des autres. 
 
+echomarine_intro_ipad.png
+echomarine_intro.png
+<a href="https://youtube.com/shorts/hIgY-hvJ7kY?feature=share">Video Requin Baleine</a>
+<a href="https://youtube.com/shorts/hIgY-hvJ7kY?feature=share">Video Vaquita</a>
+<a href="https://youtube.com/shorts/_dUlRNu5DHw?feature=share">Video Thon rouge</a>
+<a href="https://youtube.com/shorts/91YEsIDqBII?feature=share">Video Tortue</a>
+<a href="https://youtube.com/shorts/qtSZ7votvLQ?feature=share">Video Tortue</a>
+
+echomarine_projecteur.jpg
+
+
+Ce projet est en deuxième place, car il était très original par rapport aux autres projets. Toutes les autres équipes ont utilisé des ampoules qui réagissent à des capteurs de mouvement, mais le projet Echomarine a utilisé une tablette interactive pour projeter des animaux sous-marins. Non seulement ce projet est très immersif et nous transporte dans un monde sous-marin, mais il est également informatif à cause qu'il décrit chaque espèce projetée. De plus, lorsque l'un des animaux est en mouvement, nous entendons les sons qu'il émet. J'apprécie la simplicité du projet, car elle démontre qu'une idée simple peut se transformer en une expérience incroyable.
