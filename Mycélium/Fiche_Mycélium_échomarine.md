@@ -11,4 +11,7 @@ L'oeuvre a été présenter au college Montmorency sous le projets final de fini
 <img src="Photo/echomarine_moi_devant.png">
 <img src="Photo/echomarine_moi_interieur.png">
 
+<h3>Créateur de échomarine</h3>
+L'oeuvre a été réaliser par les finissants du programme TIM. Il ce nomme : Maria Laura Coronel, Florence Lapierre, Tracy Gua et Natacha Abdallah
+<img src="Photo/echomarine_equipe.png">
 
