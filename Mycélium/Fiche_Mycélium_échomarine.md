@@ -17,6 +17,11 @@ L'oeuvre a été réaliser par les finissants du programme TIM. Il ce nomme : Ma
 Échomarine a été crée en 2023 durant la session d'hiver et a été realiser en 7 semaine. L'équipe a réaliser un projet époustouflante. Échomarine est un projet immersive qui est controler par un dispositif au milieux de la salle. Ce dispositif démontre la beauté sous-marin avec 6 different animaux. Lorsque nous cliquant sur un des 6 icones de l'interface au milieu de la sale, une animation se lancera et l'animal spécifique nagera dans la chambre avec des sons differents les une des autres. 
 
 <img src="Photo/echomarine_intro_ipad.png">
+<img src="Photo/echomarine_tablette_requin_baleine.png">
+<img src="Photo/echomarine_tablette_requin_blanc.png">
+<img src="Photo/echomarine_tablette_thon.png">
+<img src="Photo/echomarine_tablette_tortue.png">
+<img src="Photo/echomarine_tablette_vaquita.png">
 <img src="Photo/echomarine_intro.png">
 
 <a href="https://youtube.com/shorts/hIgY-hvJ7kY?feature=share">Video Requin Baleine</a>
@@ -29,13 +34,15 @@ L'oeuvre a été réaliser par les finissants du programme TIM. Il ce nomme : Ma
 <br>
 <a href="https://youtube.com/shorts/qtSZ7votvLQ?feature=share">Video Tortue</a>
 <br>
-Échomarine on utiliser plusieur équipement afin de crée cette experience immersive dont, 3 projecteur, 4 haut-parleur, un detecteur de mouvement, une lumiére au milieu et bien sur la tablette. 
+Échomarine on utiliser plusieur équipement afin de crée cette experience immersive dont, 3 projecteur situer au milieu de la sale, 4 haut-parleur dans chaque coin de du studio, un detecteur de mouvement qui active l'animation est qui alume la lumière, une lumiére au milieu et bien sur la tablette avec un chargeur et il on brancher les files tout au plafons afin de les cachers. 
 <br>
 <img src="Photo/echomarine_projecteur.jpg">
 <img src="Photo/echomarine_lumiere_milieu.jpg">
 <img src="Photo/echomarine_detecteur_mouvement.png">
 <img src="Photo/echomarine_speaker2.jpg">
 <img src="Photo/echomarine_shema.png">
+echomarine_support_ipad.png
+echomarine_tablette_baleine.png
 
 L'équipe a dut utiliser plusieur chose afin de crée ce projet. Pour l'animation est le dessin l'équipe a decider d'utiliser After effect et Illustrator. Pour les sons elles ont utiliser VCV Rack 2, Reaper et Max 8. Pour le codage du site web elles ont utiliser Visual Studio Code Node.js et Pure Data. 
 
