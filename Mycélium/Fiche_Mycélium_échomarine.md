@@ -48,7 +48,8 @@ echomarine_tablette_baleine.png
 L'équipe a dut utiliser plusieur chose afin de crée ce projet. Pour l'animation est le dessin l'équipe a decider d'utiliser After effect et Illustrator. Pour les sons elles ont utiliser VCV Rack 2, Reaper et Max 8. Pour le codage du site web elles ont utiliser Visual Studio Code Node.js et Pure Data. 
 
 
-
+Dès notre entrer dans la sale, le capteur s'activait et fesais disparaitre  le titre du debut et activer la lumière bleu du milieu. L'équipe nous a inviter a clicker sur une des sortes de animaux marin afficher sur la tablette. Lorsqu'une personne clique sur une des espece une animation qui s'affiche a travers les trois mur studio. 
+Une musique et le sons de l'animal est aussi émis a travers les quatre speaker dans les quoins du studio. Apres avoir clicker sur l'animal nous pouvons aussi lire un texte sur la tablette qui décrit et descris les causes d'extinction de l'animal dont nous avons activer l'animation. Le projet étais trés magnifique, je me sentais sous mère en train d'observer c'est espèce marin. 
 
 source :<a href="https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction#plantation">Échomarine</a> 
 
