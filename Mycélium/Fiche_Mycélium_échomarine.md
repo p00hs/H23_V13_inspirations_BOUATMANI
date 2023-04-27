@@ -30,6 +30,7 @@ L'oeuvre a été réaliser par les finissants du programme TIM. Il ce nomme : Ma
 <a href="https://youtube.com/shorts/qtSZ7votvLQ?feature=share">Video Tortue</a>
 <br>
 Échomarine on utiliser plusieur équipement afin de crée cette experience immersive dont, 3 projecteur, 4 haut-parleur, un detecteur de mouvement, une lumiére au milieu et bien sur la tablette. 
+<br>
 <img src="Photo/echomarine_projecteur.jpg">
 <img src="Photo/echomarine_lumiere_milieu.jpg">
 <img src="Photo/echomarine_detecteur_mouvement.png">
