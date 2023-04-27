@@ -41,9 +41,9 @@ L'oeuvre a été réaliser par les finissants du programme TIM. Il ce nomme : Ma
 <img src="Photo/echomarine_lumiere_milieu.jpg">
 <img src="Photo/echomarine_detecteur_mouvement.png">
 <img src="Photo/echomarine_speaker2.jpg">
-<img src="Photo/echomarine_shema.png">
 <img src="Photo/echomarine_support_ipad.png">
 <img src="Photo/echomarine_tablette_baleine.png">
+<img src="Photo/echomarine_shema.png">
 
 L'équipe a dut utiliser plusieur chose afin de crée ce projet. Pour l'animation est le dessin l'équipe a decider d'utiliser After effect et Illustrator. Pour les sons elles ont utiliser VCV Rack 2, Reaper et Max 8. Pour le codage du site web elles ont utiliser Visual Studio Code Node.js et Pure Data. 
 
