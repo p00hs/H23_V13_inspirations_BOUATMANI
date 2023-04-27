@@ -31,7 +31,7 @@ L'oeuvre a été réaliser par les finissants du programme TIM. Il ce nomme : Ma
 <br>
 Échomarine on utiliser plusieur équipement afin de crée cette experience immersive dont, 3 projecteur, 4 haut-parleur, un detecteur de mouvement, une lumiére au milieu et bien sur la tablette. 
 <img src="Photo/echomarine_projecteur.jpg">
-<img src="Photo/echomarine_lumiere_milieu.jpg.">
+<img src="Photo/echomarine_lumiere_milieu.jpg">
 <img src="Photo/echomarine_detecteur_mouvement.png">
 <img src="Photo/echomarine_speaker2.jpg">
 <img src="Photo/echomarine_shema.png">
