@@ -17,6 +17,8 @@ L'oeuvre a été réaliser par les finissants du programme TIM. Il ce nomme : Ma
 Échomarine a été crée en 2023 durant la session d'hiver et a été realiser en 7 semaine. L'équipe a réaliser un projet époustouflante. Échomarine est un projet immersive qui est controler par un dispositif au milieux de la salle. Ce dispositif démontre la beauté sous-marin avec 6 different animaux. Lorsque nous cliquant sur un des 6 icones de l'interface au milieu de la sale, une animation se lancera et l'animal spécifique nagera dans la chambre avec des sons differents les une des autres. 
 
 <img src="Photo/echomarine_intro_ipad.png">
+<img src="Photo/echomarine_tablette_baleine.png">
+<img src="Photo/echomarine_tablette_requin_baleine.png">
 <img src="Photo/echomarine_tablette_requin_baleine.png">
 <img src="Photo/echomarine_tablette_requin_blanc.png">
 <img src="Photo/echomarine_tablette_thon.png">
