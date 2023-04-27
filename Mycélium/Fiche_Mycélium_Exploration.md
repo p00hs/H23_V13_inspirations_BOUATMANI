@@ -54,4 +54,10 @@ En visitant la derniére équipe nous avons pur observer leur prototype de lumi�
 
 Voici le schéma de l'installation que l'équipe on crée : <a href="https://tim-montmorency.com/2023/projets/Nexum/docs/journaux/medias/prise_1.png">SCHÉMA</a>.
 
-Ce projet est en quatrième place car il semble que ce projet demontre moin de possibilité d'interactivité interessante que les autres. C'est une installation simple est efficase, mais j'aurait aimer avoir plus. J'adore le fait que les lumières passe a travers les ampoules un par un. J'aurais peut-étre aimer avoir des couleurs differente que juste rose. 
+Ce projet est en quatrième place car il semble que ce projet demontre moin de possibilité d'interactivité interessante que les autres. C'est une installation simple est efficase, mais j'aurait aimer avoir plus. J'adore le fait que les lumières passe a travers les ampoules un par un. J'aurais peut-étre aimer avoir des couleurs differente que juste rose. L'idée étais trés interesante 
+
+
+<h1>Conclusion</h1>
+
+Tout c'est projet sont extremement intéressant est on l'air trés dure a accomplire. Les étudiants avais l'aire d'avoir beaucoup d'experience avec plusieur sorte de programme varier que l'on va surement apprendre durant notre parcours en multimedia! Il y avais plusieur type de resource que nous allons apprendre et que chaqu'un des équipes on utiliser, les lumiéres varier, des sons et musique unique et le codage de site web, l'utilisation de materièle varier comme les capteurs et moteur. Pour les lumiéres les équipes on utiliser des animations 2D animer dans after effects afin de crée des jeux de lumière different. Échomarine ont utiliser after effects afin de crée leur animations de créature sous-marine. Chaqu'un des équipe ont crée des sons different afin de réaliser leur projet, le cours de conception sonore a servie a leur apprendre ces compétences. Puis nous retrouvons les cours de java, css et html qui nous sont apprie durant tout nos session. l'équipe d'échomarine on crée un site web qui délanchais les animations et le group de nexum on crée un site web qui demontrait leur animation. Nous allons apprendre a utiliser les different materiel durant notre passage en multimedia. Pourvoir utilisé des capteur varier comme ceux de chaleur, mouvement et 
+
