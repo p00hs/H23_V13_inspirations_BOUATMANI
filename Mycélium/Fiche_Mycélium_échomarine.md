@@ -8,5 +8,7 @@ L'oeuvre a été présenter au college Montmorency sous le projets final de fini
 
 <img src="Photo/mycelium_demo2.png">
 <img src="Photo/mycelium_demo.png">
+<img src="Photo/echomarine_moi_devant.png">
+<img src="Photo/echomarine_moi_interieur.png">
 
 
