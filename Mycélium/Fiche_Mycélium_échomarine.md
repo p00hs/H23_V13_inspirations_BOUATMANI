@@ -19,7 +19,6 @@ L'oeuvre a été réaliser par les finissants du programme TIM. Il ce nomme : Ma
 <img src="Photo/echomarine_intro_ipad.png">
 <img src="Photo/echomarine_tablette_baleine.png">
 <img src="Photo/echomarine_tablette_requin_baleine.png">
-<img src="Photo/echomarine_tablette_requin_baleine.png">
 <img src="Photo/echomarine_tablette_requin_blanc.png">
 <img src="Photo/echomarine_tablette_thon.png">
 <img src="Photo/echomarine_tablette_tortue.png">
