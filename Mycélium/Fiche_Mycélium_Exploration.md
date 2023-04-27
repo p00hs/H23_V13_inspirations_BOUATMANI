@@ -43,7 +43,7 @@ Voici le schéma de l'installation que l'équipe on crée : <a href="https://use
 J'ai décidé de placer ce projet en troisième place à cause de l'interactivité possible qu'il offre. Le vélo encourage non seulement les gens à faire un peu de sport, mais aussi à avoir la possibilité d'interagir personnellement avec le projet. J'aime aussi le fait que ce projet économise de l'électricité grâce au moteur. . Ce projet demontre aussi un beau spectacle de lumiére est de sons qui t'emenne a travers les 4 saison de l'année.
 
 <h1><a href="https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html">4 - Nexum</a></h1>
-<h3>Réalisé par: Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson</h3>
+<h3>Réalisé par: Maxime Des Lauriers, Sébastien Reilly, Sabrina Laforest et  Alexandre Daniel</h3>
 
 <img src="Photo/nexum_demo_lumiere.png">
 <img src="Photo/nexum_ordinateur.png">
@@ -53,3 +53,5 @@ En visitant la derniére équipe nous avons pur observer leur prototype de lumi�
 <img src="Photo/nexum_shema.png">
 
 Voici le schéma de l'installation que l'équipe on crée : <a href="https://tim-montmorency.com/2023/projets/Nexum/docs/journaux/medias/prise_1.png">SCHÉMA</a>.
+
+Ce projet est en quatrième place car il semble que ce projet demontre moin de possibilité d'interactivité interessante que les autres. C'est une installation simple est efficase, mais j'aurait aimer avoir plus. J'adore le fait que les lumières passe a travers les ampoules un par un. J'aurais peut-étre aimer avoir des couleurs differente que juste rose. 
