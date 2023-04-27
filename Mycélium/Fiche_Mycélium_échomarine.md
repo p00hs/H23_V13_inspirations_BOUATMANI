@@ -37,5 +37,10 @@ L'oeuvre a été réaliser par les finissants du programme TIM. Il ce nomme : Ma
 <img src="Photo/echomarine_speaker2.jpg">
 <img src="Photo/echomarine_shema.png">
 
+L'équipe a dut utiliser plusieur chose afin de crée ce projet. Pour l'animation est le dessin l'équipe a decider d'utiliser After effect et Illustrator. Pour les sons elles ont utiliser VCV Rack 2, Reaper et Max 8. Pour le codage du site web elles ont utiliser Visual Studio Code Node.js et Pure Data. 
+
+
+
+
 source :<a href="https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction#plantation">Échomarine</a> 
 
