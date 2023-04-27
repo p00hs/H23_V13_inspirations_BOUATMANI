@@ -20,7 +20,7 @@ L'oeuvre a été réaliser par les finissants du programme TIM. Il ce nomme : Ma
 <img src="Photo/echomarine_intro.png">
 
 <a href="https://youtube.com/shorts/hIgY-hvJ7kY?feature=share">Video Requin Baleine</a>
-<br/
+<br>
 <a href="https://youtube.com/shorts/hIgY-hvJ7kY?feature=share">Video Vaquita</a>
 <a href="https://youtube.com/shorts/_dUlRNu5DHw?feature=share">Video Thon rouge</a>
 <a href="https://youtube.com/shorts/91YEsIDqBII?feature=share">Video Tortue</a>
