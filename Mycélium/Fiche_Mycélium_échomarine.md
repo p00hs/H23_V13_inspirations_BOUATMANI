@@ -29,8 +29,11 @@ L'oeuvre a été réaliser par les finissants du programme TIM. Il ce nomme : Ma
 <br>
 <a href="https://youtube.com/shorts/qtSZ7votvLQ?feature=share">Video Tortue</a>
 <br>
+Échomarine on utiliser plusieur équipement afin de crée cette experience immersive dont, 3 projecteur, 4 haut-parleur, un detecteur de mouvement, une lumiére au milieu et bien sur la tablette. 
+<img src="Photo/echomarine_projecteur.jpg">
+<img src="Photo/echomarine_lumiere_milieu.jpg.">
+<img src="Photo/echomarine_detecteur_mouvement.png">
+<img src="Photo/echomarine_speaker2.jpg">
+<img src="Photo/echomarine_shema.png">
 
-echomarine_projecteur.jpg
 
-
-Ce projet est en deuxième place, car il était très original par rapport aux autres projets. Toutes les autres équipes ont utilisé des ampoules qui réagissent à des capteurs de mouvement, mais le projet Echomarine a utilisé une tablette interactive pour projeter des animaux sous-marins. Non seulement ce projet est très immersif et nous transporte dans un monde sous-marin, mais il est également informatif à cause qu'il décrit chaque espèce projetée. De plus, lorsque l'un des animaux est en mouvement, nous entendons les sons qu'il émet. J'apprécie la simplicité du projet, car elle démontre qu'une idée simple peut se transformer en une expérience incroyable.
