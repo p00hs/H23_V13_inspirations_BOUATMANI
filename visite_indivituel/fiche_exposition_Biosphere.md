@@ -27,6 +27,22 @@ Plastisapiens est une experience virtuel meditative de 15 minutes qui nous emenn
 <h3>Type d'installation</h3>
 Cette installation est immersive et interactive, car nous utilisont le VR afin d'étre completement dans l'univers de l'oeuvre. De plus elle est aussi intéractive car durant la session nous devons aussi intéragire avec certaine fleur, poisson et bien d'autre afin de continuer l'histoire. 
 
+<h3>Mise en espace</h3>
+
+L'oeuvre étais intaller dans une salle ou il y avais une certaine structure fait a base de tisu au mulieu avec plusieur bulle de tissue et 5 siege. Les 5 siège étais des pouffes rose. Après étre assie les personnes qui s'occupe de l'instalation nous donne le casque VR et les manettes afin de commencer l'experiences immersive. 
+
+<h3>Composantes et techniques</h3>
+
+Les composantes importantes sont les casques de vr et les manettes qui nous sommes mis sur nous.
+
+Nous avons aussi les fabriques accrocher qui nous donne un présager de notre experieces
+
+<h3>Éléments nécessaires a la mise en exposition</h3>
+
+Le casque de VR étais l'élement nécessaires a la mise en exposition et aussi l'éxpérience en tant que t'elle crée sur un ordinateur.
+
+<h3>Expérience vécue</h3>
+
 https://www.onf.ca/interactif/plastisapiens/
 annonce
 
