@@ -43,6 +43,10 @@ Le casque de VR étais l'élement nécessaires a la mise en exposition et aussi 
 
 <h3>Expérience vécue</h3>
 
+<h3>Aspect intéressant</h3>
+
+<h3>Aspect à ne pas retenir</h3>
+
 https://www.onf.ca/interactif/plastisapiens/
 annonce
 
