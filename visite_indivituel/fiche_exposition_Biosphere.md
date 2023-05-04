@@ -50,15 +50,20 @@ Après avoir terminer la création de l'eperience immersif, il suffit seulement 
 
 <h3>Expérience vécue</h3>
 Cette experience invite les participants a entrer dans une zone de calme et de sérénité, en mettant de coté les craintes et les préoccupations liée  à la polution du plastique et à l'impact des industries pétrochimiques sur l'environnement. Les visiteurs sont guidés a travers une experience immersive en VR et sont transporter dans un monde ou la vie organique et la vie plastique coexistent en harmonie. Au cours de cette expérience, les participants découvrent les liens étroits qui unissent la vie organique et la vie plastique aux bactéries, aux virus et aux champignons, et assistent à leur évolution conjointe dans un avenir imaginaire. . Ils passent de l'observation à la participation, en explorant activement ce monde futuriste et en se laissant immerger dans l'ambiance sonore apaisante. 
+<img src="photo/plastisapiens_imagevr4.png">
+<img src="photo/plastisapiens_imagevr3.png">
 
 <h3>Aspect intéressant</h3>
 
 <li>La création d'un environnement immersif apaisant : L'expérience permet aux participants de se détendre et de mettre de côté leurs préoccupations en les transportant dans un monde virtuel serein où la vie organique et la vie plastique coexistent harmonieusement.</li>
 
- <li>L'ambiance sonore apaisante : La musique et les effets sonores créés par le compositeur Ori Alboher contribuent à l'atmosphère calme et sereine de l'expérience.</li>
+<li>L'ambiance sonore apaisante : La musique et les effets sonores créés par le compositeur Ori Alboher contribuent à l'atmosphère calme et sereine de l'expérience.</li>
 
 
  <li>La sensibilisation à la pollution plastique : L'expérience encourage une conversation réfléchie et des mesures concrètes en matière de pollution plastique et de durabilité environnementale, en invitant les participants à adopter une attitude curieuse et ouverte d'esprit envers ces problèmes pressants et à envisager des solutions novatrices pour un avenir durable.</li>
+
+<img src="photo/plastisapiens_imagevr2.png">
+
 
 
 
