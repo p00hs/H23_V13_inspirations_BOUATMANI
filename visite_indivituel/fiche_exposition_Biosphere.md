@@ -60,10 +60,3 @@ Cette experience invite les participants a entrer dans une zone de calme et de s
 Les asepects a ne pas retenir serait le nombre limiter de personne par session. Il y a seulement 5 place par session et je pense sincerement que ce nombre pourrais augmenter a au moin 10 personnes. 
 
 
-https://www.onf.ca/interactif/plastisapiens/
-annonce
-
-
-
-article
-http://www.lienmultimedia.com/spip.php?article90710
