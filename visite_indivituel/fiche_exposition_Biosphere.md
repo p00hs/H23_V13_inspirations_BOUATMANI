@@ -11,6 +11,22 @@ Cette exposition est temporaire car elle est seulement présenter du 17 décembr
 <h3>Date de votre visite</h3>
 Ma visite a eu lieu le samedi 18 Mars
 
+<h3>Titre de l'oeuvre</h3>
+L'oeuvre de nomme Plastisapiens
+
+<h3>Nom de l'artiste</h3>
+Cette oeuvre a été réalisé par Miri Chekhanovich, Edith Jorisch, Maude Thibodeau, Nicolas S. Roy, Marie-Pier Gauthier et Louis-Richard Tremblay
+
+<h3>Année de réalisation</h3>
+Cette oeuvre a été realiser en 2022
+
+<h3>Description de l'oeuvre</h3>
+
+Plastisapiens est une experience virtuel meditative de 15 minutes qui nous emenne dans un autre univers ou l'on est partiellement plastique. Cette experience nous emmenne a travers le temps dès la naissance de la vie organique et du plastique en découvrant leur parenté avec les bactéries, les virus et les champignons. Nous devions intéragire avec l'oeuvre en bougant nos main, en touchant certains object etc... Durant tout le long de l'experience nos mains ce sont transformer en tantacules qui devenais de plus en plus long.
+
+<h3>Type d'installation</h3>
+Cette installation est immersive et interactive, car nous utilisont le VR afin d'étre completement dans l'univers de l'oeuvre. De plus elle est aussi intéractive car durant la session nous devons aussi intéragire avec certaine fleur, poisson et bien d'autre afin de continuer l'histoire. 
+
 https://www.onf.ca/interactif/plastisapiens/
 annonce
 
