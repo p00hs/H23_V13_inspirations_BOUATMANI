@@ -41,12 +41,28 @@ Présenter l'oeuvre nommée Plastisapiens qui ce situe dans a la Biosphère entr
 
 <h2>Expérience vécue</h2>
 
+<li> l'experience immersive </li>
+<li> qualité du VR </li>
+<li> Décoration de la salle </li>
+<li> Activité relaxante </li>
+
 
 <h2>Appréciation de l'oeuvre</h2>
+<li>L'apprentissage des liens entre la vie organique et la vie plastique</li>
+<li><li>La création d'un environnement immersif apaisant </li>
+<li>L'ambiance sonore apaisante</li>
 
 Lien avec d'autres oeuvres vues
+<li>L'immersivité et intéraction avec les visiteurs</li>
+
 
 <h2>Conclusion</h2>
+<h3>Rappel aspects<h3>
+<li>Oeuvre nommée plastisapien</li>
+<li> Par Office national du film du Canada et de Lalibela Productions. </li>
+<li> Oeuvre installer depuis 2022 a la biosphère </li>
+<li> Interactive, immersive et aussi nous apprends sur la science </li>
+ 
+ <h3>Ouverture<h3>
+  <li>l'importance de la documentation dans la création d'une œuvre </li>
 
-Rappel aspects
-Ouverture
