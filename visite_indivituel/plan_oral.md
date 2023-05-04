@@ -31,17 +31,18 @@ Présenter l'oeuvre nommée Plastisapiens qui ce situe dans a la Biosphère entr
 <li> Visite samedi 18 Mars 2023 </li>
 
 <h2>Présentation détaillée</h2>
- <li>Description: </li>
- <li>Type d'installation:</li>
- <li>Fonction:</li>
- <li>Mise en espace:</li>
- <li>Composantes:</li>
- <li>Éléments:</li>
+ <li>Description: Realiter virtuel dans un monde 3d ou on commence par étre un poisson, musique apaisante qui suit tout au long de l'experience  </li>
+ <li>Type d'installation: installation imersive et interactive, intéragie avec les plantes et virus afin de continuer l'histoire</li>
+ <li>Fonction: Accessible à tous </li>
+ <li>Mise en espace: Dans une salle a la biosphère, 5 place par session de 15 minute, 5 pouffe ou s'assoire et 5 casque et manettes VR.</li>
+ <li>Composantes: 5 pouffes, instalation de fabrique autour, 5 casque vr et 10 manette, ordinateur qui fait l'expérience</li>
+ <li>Éléments:Une production de l’ Office national du film du Canada et de Lalibela Productions. </li>
 
 
-Expérience vécue
+<h2>Expérience vécue</h2>
 
-Appréciation de l'oeuvre
+
+<h2>Appréciation de l'oeuvre</h2>
 
 Lien avec d'autres oeuvres vues
 
