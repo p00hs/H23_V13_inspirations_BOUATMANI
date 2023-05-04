@@ -3,6 +3,7 @@
 
 <h3>Nom de l'exposition et lieu de l'exposition</h3>
 <a href="https://www.onf.ca/interactif/plastisapiens/">Plastisapiens</a> est une experience de réalité virtuel presenter A la biosphère depuis le 14 décembre 2022. 
+<img src="photo/plartisapiens_vr3.png.png">
 
 <h3>Type d'exposition</h3>
 Cette exposition est temporaire car elle est seulement présenter du 17 décembre 2022 jusqu'au 14 mai 2023
