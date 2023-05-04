@@ -57,12 +57,14 @@ Lien avec d'autres oeuvres vues
 
 
 <h2>Conclusion</h2>
+
 <h3>Rappel aspects<h3>
+ 
 <li>Oeuvre nommée plastisapien</li>
 <li> Par Office national du film du Canada et de Lalibela Productions. </li>
 <li> Oeuvre installer depuis 2022 a la biosphère </li>
 <li> Interactive, immersive et aussi nous apprends sur la science </li>
  
  <h3>Ouverture<h3>
-  <li>l'importance de la documentation dans la création d'une œuvre </li>
+ <li>l'importance de la documentation dans la création d'une œuvre </li>
 
