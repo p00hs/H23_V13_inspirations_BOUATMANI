@@ -2,8 +2,7 @@
 <h1>Plastisapiens</h1>
 
 <h3>Nom de l'exposition et lieu de l'exposition</h3>
-
-Plastisapiens est une experience de réalité virtuel presenter A la biosphère depuis le 14 décembre 2022. 
+<a href="https://www.onf.ca/interactif/plastisapiens/">Plastisapiens</a> est une experience de réalité virtuel presenter A la biosphère depuis le 14 décembre 2022. 
 
 <h3>Type d'exposition</h3>
 Cette exposition est temporaire car elle est seulement présenter du 17 décembre 2022 jusqu'au 14 mai 2023
@@ -58,6 +57,7 @@ Cette experience invite les participants a entrer dans une zone de calme et de s
 
 <h3>Aspect à ne pas retenir</h3>
 
+Les asepects a ne pas retenir serait le nombre limiter de personne par session. Il y a seulement 5 place par session et je pense sincerement que ce nombre pourrais augmenter a au moin 10 personnes. 
 
 
 https://www.onf.ca/interactif/plastisapiens/
