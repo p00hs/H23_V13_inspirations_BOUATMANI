@@ -33,9 +33,9 @@ L'oeuvre étais intaller dans une salle ou il y avais une certaine structure fai
 
 <h3>Composantes et techniques</h3>
 
-Les composantes importantes sont les casques de vr et les manettes qui nous sommes mis sur nous.
+ <li>Les composantes importantes sont les casques de vr et les manettes qui nous sommes mis sur nous.</li>
 
-Nous avons aussi les fabriques accrocher qui nous donne un présager de notre experieces
+ <li>Nous avons aussi les fabriques accrocher qui nous donne un présager de notre experieces</li>
 
 <h3>Éléments nécessaires a la mise en exposition</h3>
 
