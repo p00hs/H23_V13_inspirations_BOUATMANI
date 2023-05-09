@@ -10,9 +10,9 @@ Nous sommes allés rendre visite aux élèves de troisième année, ils nous ont
 <img src="Photo/edria_shema.png">
 
 Voici le schéma de l'installation que l'équipe on crée : <a href="https://github.com/F-C-A/EDRIA/blob/main/docs/medias/schema_electrique.png">SCHÉMA</a>. 
-Les étudiant on decidé d'installer  
+Les étudiant on decidé d'installer leur structures dans la cabie central du shema. Puis nous pouvons retrouber le source de l'électricité dans l'école avec les files qui les suit.
 
-J'ai décidé de mettre ce projet en première place en raison de l'expérience immersive qu'il a créée. Non seulement elle permet à plusieurs personnes de participer à la création finale du projet, mais malgré la pluie, mon amie et moi avons visité l'exposition et l'expérience était magnifique. En activant les trois capteurs, nous avons aussi déclenché les trois jeux de lumière et sons. Plus la musique continuait, plus nous nous sentions comme dans un film d'action. J'ai été plus que satisfaite de l'exposition, j'étais impressionnée !
+J'ai décidé de mettre ce projet en première place en raison de l'expérience immersive qu'il a créée. Non seulement elle permet à plusieurs personnes de participer à la création finale du projet, mais malgré la pluie, mon amie et moi avons visité l'exposition et l'expérience était magnifique. En activant les trois capteurs, nous avons aussi déclenché les trois jeux de lumière et sons. Plus la musique continuait, plus nous nous sentions comme dans un film d'action. J'ai été plus que satisfaite de l'exposition, j'étais impressionnée!
 
 
 <h1><a href="https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html">2 - Échomarine</a></h1>
@@ -43,7 +43,7 @@ Lorsque nous avons visité ce projet, l'équipe avait installé des lumières su
 Voici le schéma de l'installation que l'équipe on crée : <a href="https://user-images.githubusercontent.com/70410591/215125260-d78220d7-4583-489d-9c77-34b1653faafd.png
 ">SCHÉMA</a>.
 
-J'ai décidé de placer ce projet en troisième place à cause de l'interactivité possible qu'il offre. Le vélo encourage non seulement les gens à faire un peu de sport, mais aussi à avoir la possibilité d'interagir personnellement avec le projet. J'aime aussi le fait que ce projet économise de l'électricité grâce au moteur. . Ce projet démontre aussi un beau spectacle de lumière et de sons qui t'emmené à travers les 4 saisons de l'année.
+J'ai décidé de placer ce projet en troisième place à cause de l'interactivité possible qu'il offre. Le vélo encourage non seulement les gens à faire un peu de sport, mais aussi à avoir la possibilité d'interagir personnellement avec le projet. Le projet emmene les gens à venir observer les 4 differentes saison de l'année avec des different sorte de musique et couleur . J'aime aussi le fait que ce projet économise de l'électricité grâce au moteur.
 
 
 <h1><a href="https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html">4 - Nexum</a></h1>
