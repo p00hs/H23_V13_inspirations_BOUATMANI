@@ -5,11 +5,12 @@
 <img src="Photo/edria_demo.png">
 <img src="Photo/edria_ordinateur.png">
 
-Nous sommes allés rendre visite aux élèves de troisième année, ils nous ont présenté le prototype de leur projet Edria. Il n'y avait qu'une demi-tour installé dans le studio afin de faire les teste nécessaires. Les capteurs installés, les haut-parleurs et les lumières fonctionnaient parfaitement. Il y avait trois types de capteur à activer. Lorsqu'un des capteurs était déclenché, il jouait une musique unique avec un jeu de lumière spécifique. Lorsque les trois capteurs étaient activés avec trois personnes, les trois types de musique et jeu de lumière se déclenchaient simultanément, créant une expérience unique.
+Nous sommes allés rendre visite aux élèves de troisième année, ils nous ont présenté le prototype de leur projet Edria. Il n'y avait qu'une demi-tour installé dans le studio afin de faire les teste nécessaires avant l'instalation du projet. Les capteurs installés, les haut-parleurs et les lumières fonctionnaient parfaitement. Il y avait trois types de capteur à activer. Lorsqu'un des capteurs était déclenché, il jouait une musique unique avec un jeu de lumière spécifique. Lorsque les trois capteurs étaient activés avec trois personnes, les trois types de musique et jeu de lumière se déclenchaient simultanément, créant une expérience unique.
 
 <img src="Photo/edria_shema.png">
 
 Voici le schéma de l'installation que l'équipe on crée : <a href="https://github.com/F-C-A/EDRIA/blob/main/docs/medias/schema_electrique.png">SCHÉMA</a>. 
+Les étudiant on decidé d'installer  
 
 J'ai décidé de mettre ce projet en première place en raison de l'expérience immersive qu'il a créée. Non seulement elle permet à plusieurs personnes de participer à la création finale du projet, mais malgré la pluie, mon amie et moi avons visité l'exposition et l'expérience était magnifique. En activant les trois capteurs, nous avons aussi déclenché les trois jeux de lumière et sons. Plus la musique continuait, plus nous nous sentions comme dans un film d'action. J'ai été plus que satisfaite de l'exposition, j'étais impressionnée !
 
