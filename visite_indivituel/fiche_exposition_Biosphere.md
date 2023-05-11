@@ -35,6 +35,8 @@ Cette installation est immersive et interactive, car nous utilisont le VR afin d
 
 <h3>Mise en espace</h3>
 
+<a href="https://youtube.com/shorts/uLR-jhrP1Io?feature=share">Video prise</a>
+
 L'oeuvre étais intaller dans une salle ou il y avais une certaine structure fait a base de tisu au mulieu avec plusieur bulle de tissue et 5 siege. Les 5 siège étais des pouffes rose. Après étre assie les personnes qui s'occupe de l'instalation nous donne le casque VR et les manettes afin de commencer l'experiences immersive. 
 <img src="photo/plastisapiens_salle.png">
 
